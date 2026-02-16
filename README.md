@@ -3,7 +3,6 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 ## Objective
-
 This lab demonstrates:
 
 - Installing Active Directory Domain Services (AD DS)
@@ -154,13 +153,3 @@ Successfully authenticated.
 - Remote Desktop configuration
 - PowerShell automation for bulk user provisioning
 - Domain authentication verification
-
----
-
-# Operational Note
-
-Do NOT delete Azure VMs after completion.
-
-If pausing work, stop the VMs in the Azure Portal to reduce cost.
-
-These machines will be reused in future labs.
