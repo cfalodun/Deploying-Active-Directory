@@ -3,12 +3,28 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-## Objective
 
-Install Active Directory Domain Services (ADDS), promote a Domain Controller, create administrative accounts, and join a client machine to the domain.
+## Project Summary
+
+This project demonstrates the deployment and configuration of Active Directory Domain Services within a Microsoft Azure environment. The lab includes domain controller promotion, Organizational Unit (OU) creation, administrative account provisioning, and domain joining of client machines.
+
+### Languages Used
+- PowerShell (basic administrative tasks)
+
+### Environments Used
+- Microsoft Azure
+- Windows Server (Domain Controller)
+- Windows 10 (Client Machine)
+
+### Technologies / Services Used
+- Active Directory Domain Services (ADDS)
+- Azure Virtual Machines
+- Azure Networking
+- Remote Desktop Protocol (RDP)
+
 
 ---
-
+# Demonstration
 ## Step 1 – Install Active Directory Domain Services
 
 Logged into **DC-1** and installed **Active Directory Domain Services (ADDS)**.
