@@ -97,14 +97,3 @@ From this point forward, **jane_admin** was used as the administrative account.
 - Moved Client-1 into **_CLIENTS** OU
 
 <img src="https://i.postimg.cc/258kkfnQ/08-client1-in-clients-ou.png" width="500">
-
----
-
-## Result
-
-- Active Directory successfully installed
-- Domain Controller configured
-- Domain Admin account created
-- Client machine successfully joined to domain
-- Organizational Unit structure established
-
